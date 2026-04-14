@@ -7,4 +7,4 @@ Once you have the API key inserted, you can successfully run all code. Be sure t
 
 Thank you!
 
-P.S. Here is a video detailing how to obtain an API key from FRED as well as a successful run through of the code: <link>
+P.S. Here is a video detailing how to obtain an API key from FRED as well as a successful run through of the code: [link]
