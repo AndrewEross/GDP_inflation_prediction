@@ -6,3 +6,5 @@ Once you do that and you past the key into the provided area, you can begin runn
 Once you have the API key inserted, you can successfully run all code. Be sure to pip install any missing packages if an error regarding those comes up. 
 
 Thank you!
+
+P.S. Here is a video detailing how to obtain an API key from FRED as well as a successful run through of the code: <link>
